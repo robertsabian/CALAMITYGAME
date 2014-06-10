@@ -6,7 +6,7 @@ function Start () {
 
 function Update () {
 
-if (Input.GetKey("q")) 
+if (Input.GetKeyDown(KeyCode.Escape)) 
  {
   Application.LoadLevel ("Menu");
    }
