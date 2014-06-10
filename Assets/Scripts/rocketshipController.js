@@ -1,7 +1,7 @@
 ﻿#pragma strict
 
 static var score:int=0;
-static var health:int=5;
+static var health:int=10;
 var counter : int;
 
 var textStyle:GUISkin;
@@ -50,4 +50,7 @@ if (transform.position.y <= -4.2f) {
 	
 	
 }
+<<<<<<< HEAD
 //new comment
+=======
+>>>>>>> origin/master
