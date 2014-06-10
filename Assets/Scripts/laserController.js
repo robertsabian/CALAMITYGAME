@@ -43,3 +43,4 @@ function OnBecameInvisible()
 {
 	Destroy(this.gameObject);
 }
+//new comment
