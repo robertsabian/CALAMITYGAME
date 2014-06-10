@@ -12,8 +12,3 @@ if (Input.GetKeyDown(KeyCode.Escape))
    }
 
 }
-<<<<<<< HEAD
-
-//new comment
-=======
->>>>>>> origin/master

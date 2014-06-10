@@ -50,7 +50,3 @@ if (transform.position.y <= -4.2f) {
 	
 	
 }
-<<<<<<< HEAD
-//new comment
-=======
->>>>>>> origin/master
